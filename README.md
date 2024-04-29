@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zwonder11.
 - 👀 I’m interested in programming games.
-- 🌱 I’m currently learning C+ and Robust Toolbox.
+- 🌱 I’m currently learning C+.
 - 💞️ I’m looking to collaborate on SS14 stuff.
 - 📫 How to reach me [Classified]. >:(
 - 😄 Pronouns: Manly Man.
